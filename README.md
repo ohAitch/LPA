@@ -20,10 +20,12 @@ This space intentionally left blank lmao
 
 - [ ] round-trip APL parser/printer
 - [ ] literally reverse the entire string
+- [ ] comments
 - [ ] unreverse names
 - [ ] fix parens, directional characters like `∊` and `⊆`
 - [ ] flip characters typed on keydown
 - [ ] flop `⍺` `⍵` probably
 - [ ] infix operator form of `[n]a`?
 - [ ] RIDE proxy server
-- [ ] fixup hint bar, code examples
+- [ ] fixup lang bar, code examples
+- [ ] figure out what to do with `⍎`
